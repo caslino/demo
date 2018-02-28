@@ -4,6 +4,9 @@
     { "code": 2, "name": "Tex-Mex" },
     { "code": 3, "name": "Hawaiian" },
     { "code": 4, "name": "Chicken Tikka" },
-    { "code": 5, "name": "Shrimp" }
+    { "code": 5, "name": "Shrimp Peri-Peri" },
+    { "code": 5, "name": "Margarita" },
+    { "code": 5, "name": "Tuna Melt" },
+    { "code": 5, "name": "Cafarael" }
   ]
 }
