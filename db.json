@@ -5,8 +5,8 @@
     { "code": 3, "name": "Hawaiian" },
     { "code": 4, "name": "Chicken Tikka" },
     { "code": 5, "name": "Shrimp Peri-Peri" },
-    { "code": 5, "name": "Margarita" },
-    { "code": 5, "name": "Tuna Melt" },
-    { "code": 5, "name": "Cafarael" }
+    { "code": 6, "name": "Margarita" },
+    { "code": 7, "name": "Tuna Melt" },
+    { "code": 8, "name": "Cafarael" }
   ]
 }
